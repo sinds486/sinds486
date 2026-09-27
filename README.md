@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Hello,%20I'm%20Daesub&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Hello,%20I'm%20Daeseop&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
 ### 🎮 Game Planner · Creative Thinker · Gamer
 
