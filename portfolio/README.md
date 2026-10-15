@@ -4,9 +4,10 @@
 
 ## 📄 Portfolio
 
-- [The Apocalypse](./The_Apocalypse.pdf)
-  ㄹㄹ
-- [꿈을 Dream](./Dream.pdf)
+- [The Apocalypse](./The_Apocalypse.pdf)  
+  선택에 따라 다양한 엔딩이 있는 1인칭 오픈월드 액션 서바이벌 RPG
+- [꿈을 Dream](./Dream.pdf)  
+  한 게임에서 다양한 장르를 경험할 수 있는 액션 어드벤쳐
 - [MOBA 캐릭터 기획](./Moba.pdf)
 - [캐릭터 스크립트](./Sc.xlsx)
 - [루시드 씨](./Lucid.pdf)
