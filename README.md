@@ -108,32 +108,6 @@
 
 ---
 
-## 🛠️ Skills
-
-### 🎮 Game Planning
-
-<img src="https://img.shields.io/badge/System%20Design-4ECDC4?style=flat-square"/>
-<img src="https://img.shields.io/badge/Content%20Design-45B7D1?style=flat-square"/>
-<img src="https://img.shields.io/badge/Combat%20Design-FF6B6B?style=flat-square"/>
-<img src="https://img.shields.io/badge/Growth%20Design-9B59B6?style=flat-square"/>
-<img src="https://img.shields.io/badge/UI%2FUX-F39C12?style=flat-square"/>
-<img src="https://img.shields.io/badge/Scenario-8E44AD?style=flat-square"/>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sinds486&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinds486&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
 
 ## 📫 Contact
 
