@@ -109,6 +109,3 @@
 ---
 
 
-## 📫 Contact
-
-📧 **Email:** sinds486@naver.com
